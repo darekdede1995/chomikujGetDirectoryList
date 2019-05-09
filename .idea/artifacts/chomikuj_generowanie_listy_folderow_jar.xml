@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chomikuj_generowanie_listy_folderow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chomikuj_generowanie_listy_folderow_jar</output-path>
+    <root id="archive" name="chomikuj_generowanie_listy_folderow.jar">
+      <element id="module-output" name="chomikuj_generowanie_listy_folderow" />
+    </root>
+  </artifact>
+</component>
